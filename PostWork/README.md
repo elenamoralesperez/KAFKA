@@ -42,7 +42,7 @@ You will have to provide the following:
 
 Basic explanation of:
 1. Use case
-2.Dataset selected 
-2. Final architecture implemented 
-3. Json examples of your data json model 
-4. **Evidence** of the Application has run end to end providing the expected results. With screenshots of the different step: 1)the ingestion, 2) the processing with a Consumer, 3) the processing with KSQL, the final printing on screen on the expected outcome.
+2. Dataset selected 
+3. Final architecture implemented 
+4. Json examples of your data json model 
+5. **Evidence** of the Application has run end to end providing the expected results. With screenshots of the different step: 1)the ingestion, 2) the processing with a Consumer, 3) the processing with KSQL, the final printing on screen on the expected outcome.
